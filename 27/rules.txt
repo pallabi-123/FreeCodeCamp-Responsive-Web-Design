@@ -1,0 +1,2 @@
+Step 27
+After the ordered list, add another figure element.
