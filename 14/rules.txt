@@ -1,0 +1,2 @@
+Step 14
+Turn the image into a link by surrounding it with necessary element tags. Use https://freecatphotoapp.com as the anchor's href attribute value.
