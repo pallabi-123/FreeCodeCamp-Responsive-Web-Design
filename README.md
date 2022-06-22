@@ -1,7 +1,5 @@
-# FreeCodeCamp-Responsive-Web-Design
-<ul>
-  <li>Learn HTML by Building a Cat Photo App. </li>
-  <li>Learn CSS by Building a Cafe Menu. </li>
-  <li>Learn CSS Colors by building a Set of Colored Markers. </li>
-  <li>Learn HTML Forms by Building a Registration Form. </li>
- </ul>
+# Learn Basic CSS by Building a Cafe Menu
+
+CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements.
+
+In this course, you'll learn CSS by designing a menu page for a cafe webpage.
