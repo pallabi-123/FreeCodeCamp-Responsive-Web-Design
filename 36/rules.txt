@@ -1,4 +1,0 @@
-Step 36
-The input element allows you several ways to collect data from a web form. Like img elements, input elements are self-closing and do not need closing tags.
-
-Nest an input element in the form element.
