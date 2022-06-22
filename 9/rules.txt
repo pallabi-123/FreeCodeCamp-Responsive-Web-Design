@@ -1,2 +1,0 @@
-Step 9
-There will be two sections on the menu, one for coffees and one for desserts. Add a section element within the main element so you have a place to put all the coffees available.
