@@ -1,4 +1,0 @@
-Step 29
-To improve accessibility of the image you just added, add an alt attribute with the text:
-
-Five cats looking around a field.
