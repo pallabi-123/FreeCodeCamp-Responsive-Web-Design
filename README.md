@@ -1,5 +1,8 @@
-# Learn Basic CSS by Building a Cafe Menu
+# Responsive Web Design
 
-CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements.
-
-In this course, you'll learn CSS by designing a menu page for a cafe webpage.
+<ul>
+  <li>Building a Cat Photo App</li>
+  <li>Building a Cafe Menu App</li>
+  <li>Building a Set of Colored Markers</li>
+  <li>Building a Registration Form</li>
+</ul>
