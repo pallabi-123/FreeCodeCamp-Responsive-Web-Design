@@ -1,0 +1,4 @@
+Step 57
+Add another checkbox after the one you just added. The id attribute value should be lazy and the name attribute value should be the same as the last checkbox.
+
+Also add a label element to the right of the new checkbox with the text Lazy. Make sure to associate the label element with the new checkbox using the for attribute.
