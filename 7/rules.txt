@@ -1,0 +1,2 @@
+Step 7
+Since the p element added in the previous step provides supplemental information about the cafe, nest both the h1 and p elements in a header element.
