@@ -1,4 +1,0 @@
-Step 1
-As you've seen in the previous projects, webpages should start with a DOCTYPE html declaration, followed by an html element.
-
-Add a DOCTYPE html declaration at the top of the document, and an html element after that.
