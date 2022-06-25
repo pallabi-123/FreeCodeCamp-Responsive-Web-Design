@@ -1,0 +1,4 @@
+Step 67
+You can use an hr element to display a divider between sections of different content.
+
+First, add an hr element between the first header element and the main element. Note that hr elements are self closing.
