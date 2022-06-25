@@ -1,0 +1,2 @@
+Step 75
+Using the same style selector in the previous step, make the font size of the items and prices larger by using a value of 18px.
