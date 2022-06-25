@@ -1,0 +1,2 @@
+Step 72
+Go ahead and add another hr element between the main element and the footer element.
