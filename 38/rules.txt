@@ -1,0 +1,2 @@
+Step 38
+Next, in the .one rule, use the rgb function to set the background-color to black. And in the .two rule, use the rgb function to set the background-color to red.
