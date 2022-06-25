@@ -1,0 +1,2 @@
+Step 73
+To create a little more room around the menu, add 20px of space on the inside of the body element by using the padding property.
