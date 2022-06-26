@@ -1,0 +1,2 @@
+Step 62
+For the second color argument, use a hex color code with the values 71 for red, F5 for green, and 3E for blue.
