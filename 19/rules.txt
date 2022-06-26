@@ -1,2 +1,0 @@
-Step 19
-Add the class two to the second marker div, and the class three to the third marker div.
