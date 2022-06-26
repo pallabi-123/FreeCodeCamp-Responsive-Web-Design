@@ -1,0 +1,1 @@
+For the border-left shorthand property, use the rgba function to set the color value to pure black with 75% opacity.
