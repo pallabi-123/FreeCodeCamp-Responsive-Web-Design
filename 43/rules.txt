@@ -1,2 +1,0 @@
-Step 43
-And update the rgb function in the .red rule so that the red value is at the max.
