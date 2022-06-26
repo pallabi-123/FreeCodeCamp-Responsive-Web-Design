@@ -1,4 +1,0 @@
-Step 65
-If no gradientDirection argument is provided to the linear-gradient function, it arranges colors from top to bottom, or along a 180 degree line, by default.
-
-Clean up your code a little more by removing the gradientDirection argument from both linear-gradient functions.
