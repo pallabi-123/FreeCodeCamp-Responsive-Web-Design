@@ -1,9 +1,0 @@
-Step 86
-The last thing you'll do is add a slight shadow to each marker to make them look even more realistic.
-
-The box-shadow property lets you apply one or more shadows around an element. Here is basic syntax:
-
-box-shadow: offsetX offsetY color;
-Start by adding a simple shadow to the red marker.
-
-In the .red CSS rule, add the box-shadow property with the values 5px for offsetX, 5px for offsetY, and red for color.
