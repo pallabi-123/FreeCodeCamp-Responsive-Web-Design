@@ -1,0 +1,2 @@
+Step 67
+Use the linear-gradient function, and pass in the hsl function with the values 186 for hue, 76% for saturation, and 16% for lightness as the first color argument.

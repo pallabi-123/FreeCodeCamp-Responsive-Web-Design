@@ -1,0 +1,2 @@
+Step 17
+Next, remove the background-color property and its value from the .marker CSS rule.

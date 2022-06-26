@@ -1,0 +1,10 @@
+Step 16
+In school, you might have learned that red, yellow, and blue are primary colors, and learned how to create new colors by mixing those. However, this is an outdated model.
+
+These days, there are two main color models: the additive RGB (red, green, blue) model used in electronic devices, and the subtractive CMYK (cyan, magenta, yellow, black) model used in print. In this project you'll work with the RGB model.
+
+First, add the class one to the first marker div element.
+
+<div class="exampleClass1 exampleClass2">
+  ...content
+</div>

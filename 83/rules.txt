@@ -1,0 +1,4 @@
+Step 83
+Your marker is looking good. But to make it look even more realistic, you can change the border style to double solid borders.
+
+For the border-left shorthand property, change the border style value from solid to double.
