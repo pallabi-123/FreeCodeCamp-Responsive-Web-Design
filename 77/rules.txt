@@ -1,2 +1,0 @@
-Step 77
-Create a new CSS rule to target the class cap. In the new rule, set the width property to 60px, and the height to 25px.
