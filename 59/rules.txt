@@ -1,4 +1,0 @@
-Step 59
-Finally, modify the third color argument in the linear-gradient function, which is currently pure blue.
-
-Update the rgb function so the value for red is 162, the value of green is 27, and the value of blue is 27.
