@@ -1,0 +1,2 @@
+Step 14
+As label elements are inline by default, they appear on the same line as the text they are labelling. To make them appear on separate lines, add display: block to the label element, and add a margin of 0.5rem 0, to separate them from each other.
