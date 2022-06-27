@@ -1,0 +1,6 @@
+Step 24
+Within each corresponding label element, and immediately after the input element, add a space and add the following text:
+
+Personal Account
+Business Account
+I accept the terms and conditions
