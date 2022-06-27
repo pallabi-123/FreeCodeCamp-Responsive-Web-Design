@@ -1,0 +1,2 @@
+Step 7
+To spruce the project up, let us add some CSS. Begin by giving the body a width of 100%, and a height of 100vh.
