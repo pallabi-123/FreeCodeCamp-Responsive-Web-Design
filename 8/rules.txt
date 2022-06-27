@@ -1,0 +1,2 @@
+Step 8
+Now, get rid of the horizontal scroll-bar, by setting the body default margin added by some browsers to 0.
