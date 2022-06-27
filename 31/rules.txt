@@ -1,0 +1,8 @@
+Step 31
+The dropdown options are currently empty. To give them content, add the following text to each subsequent option element:
+
+(select one)
+freeCodeCamp News
+freeCodeCamp YouTube Channel
+freeCodeCamp Forum
+Other
