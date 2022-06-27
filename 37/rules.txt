@@ -1,0 +1,4 @@
+Step 37
+The HTML for the registration form is finished. Now, you can spruce it up a bit.
+
+Start by changing the font to Tahoma, and the font size to 16px in the body.
