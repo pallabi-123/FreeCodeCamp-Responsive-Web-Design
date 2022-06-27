@@ -1,0 +1,2 @@
+Step 9
+That is better. Now, make the background easy on the eyes, by changing the body background-color to #1b1b32. Then, to see the text, change the color to #f5f6f7.
