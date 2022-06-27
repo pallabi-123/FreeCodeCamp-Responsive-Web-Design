@@ -1,0 +1,4 @@
+Step 34
+The textarea appears too small. To give it an initial size, you can add the rows and cols attributes.
+
+Add an initial size of 3 rows and 30 columns.
