@@ -1,0 +1,4 @@
+Step 22
+Users will be allowed to chose either a Personal Account or Business Account.
+
+To do this, within each of the first two label elements, add one input element with type="radio".
