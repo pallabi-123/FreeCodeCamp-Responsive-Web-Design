@@ -1,0 +1,4 @@
+Step 19
+Certain type attribute values come with built-in form validation. For example, type="email" requires that the value be a valid email address.
+
+Add custom validation to the password input element, by adding a minlength attribute with a value of 8. Doing so prevents inputs of less than 8 characters being submitted.
