@@ -1,0 +1,4 @@
+Step 26
+To finish this fieldset off, link the text terms and conditions to the following location:
+
+https://www.freecodecamp.org/news/terms-of-service/
