@@ -1,0 +1,6 @@
+Step 18
+At this point, you should be able to submit the form. However, you might notice not much happens.
+
+To make the form more interactive, add the required attribute to the input elements in the first fieldset.
+
+Now, if you try to submit the form without filling in the required fields, you will see an error message.
