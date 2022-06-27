@@ -1,0 +1,4 @@
+Step 17
+The first input element with a type of submit is automatically set to submit its nearest parent form element.
+
+To handle the form submission, after the last fieldset element add an input element with the type attribute set to submit and the value attribute set to Submit.
