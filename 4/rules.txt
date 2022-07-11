@@ -1,0 +1,6 @@
+Step 4
+The content is surrounded by a space called padding, similar to how bubble wrap separates an item from the box around it.
+
+Think of the border like the cardboard box your item was shipped in.
+
+Change the src attribute to https://cdn.freecodecamp.org/curriculum/css-box-model/diagram-3.png
