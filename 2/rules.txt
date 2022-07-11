@@ -1,0 +1,4 @@
+Step 2
+Within the head element, add a meta tag which sets the charset to UTF-8, and a title element with the value Rothko Painting.
+
+Within the body element, add an img element with a src of https://cdn.freecodecamp.org/curriculum/css-box-model/diagram-1.png.
