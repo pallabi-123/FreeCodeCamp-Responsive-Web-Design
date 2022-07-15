@@ -1,0 +1,2 @@
+Step 3
+Add a second p element with the text Serving size 2/3 cup (55g).
