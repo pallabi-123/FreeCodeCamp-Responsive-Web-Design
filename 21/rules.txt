@@ -1,0 +1,2 @@
+Step 21
+Give your h1 element a class attribute set to bold. This will make the text bold again.

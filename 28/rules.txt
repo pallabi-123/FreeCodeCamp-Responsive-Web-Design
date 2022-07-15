@@ -1,0 +1,2 @@
+Step 28
+You may notice there is still a small border at the bottom of your .lg element. To reset this, give your .lg, .md selector a border property set to 0.

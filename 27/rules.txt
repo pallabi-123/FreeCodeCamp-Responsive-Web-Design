@@ -1,0 +1,2 @@
+Step 27
+Create a new .lg selector and give it a height property set to 10px. Also create an .lg, .md selector and set the background-color property to black.

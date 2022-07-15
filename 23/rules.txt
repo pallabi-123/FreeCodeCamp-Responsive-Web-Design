@@ -1,0 +1,4 @@
+Step 23
+The float property is used to place an element on the left or right of its container, allowing other content (such as text) to wrap around it.
+
+Create a new .right selector and set the float property to right.
