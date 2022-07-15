@@ -1,0 +1,2 @@
+Step 41
+Use the border-radius property on the .two selector, to set its top-left and bottom-right radii to 8px, and top-right and bottom-left radii to 10px.
