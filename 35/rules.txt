@@ -1,0 +1,2 @@
+Step 35
+The larger font size of the number 230 is causing it to overflow. Give the .calories-info h1 an overflow property set to hidden to avoid this.

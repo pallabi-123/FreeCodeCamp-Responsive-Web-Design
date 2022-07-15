@@ -1,0 +1,2 @@
+Step 40
+The float styling is causing the new p element to be outside of the label's border. Use your existing .divider element as an example to add a new divider after the p element.

@@ -1,0 +1,4 @@
+Step 31
+The rem unit stands for root em, and is relative to the font size of the html element.
+
+Create an .sm-text selector and set the font-size to 0.85rem, which would calculate to be roughly 13.6px (remember that you set your html to have a font-size of 16px).

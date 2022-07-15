@@ -1,0 +1,2 @@
+Step 39
+Create a new div element below your .md element. Give it a class attribute set to daily-value sm-text. Within this new div, add a p element with the text % Daily Value *, and set the class attribute to right bold.
