@@ -1,0 +1,4 @@
+Step 18
+The letter-spacing property can be used to adjust the space between each character of text in an element.
+
+Give your h1 selector a letter-spacing property set to 0.15px to space them out a bit more.

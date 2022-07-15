@@ -1,0 +1,2 @@
+Step 13
+Give your h1 selector a text-align property of center.
