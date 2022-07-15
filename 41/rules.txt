@@ -1,0 +1,2 @@
+Step 41
+Give the .divider selector a clear property set to right. This will clear the float property, pushing the divider and any following content down below the float text.
