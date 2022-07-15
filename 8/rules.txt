@@ -1,0 +1,6 @@
+Step 8
+Your images are currently too large, and you will not be able to see your CSS changes.
+
+Create a #gallery img selector to target your images. Give it a width property set to 25%.
+
+Also set the height property to 300px to keep your images a uniform size.

@@ -1,0 +1,8 @@
+* {
+  box-sizing: border-box;
+}
+
+#gallery img {
+  width: 25%;
+  height: 300px;
+}

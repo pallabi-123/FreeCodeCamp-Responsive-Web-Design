@@ -1,0 +1,4 @@
+Step 11
+Flexbox is a one-dimensional CSS layout approach that focuses on the flow of content. It offers the ability to control the way items are spaced and aligned within a container.
+
+To set an element to use Flexbox, you give it a display property set to flex. Create a #gallery selector and give it that property.

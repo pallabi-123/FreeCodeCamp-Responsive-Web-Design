@@ -1,0 +1,2 @@
+Step 20
+Create a media query for screens smaller than 800px in width. In that media query, create a #gallery img rule and set the width property to 50%. This will convert your gallery to a two-column layout.

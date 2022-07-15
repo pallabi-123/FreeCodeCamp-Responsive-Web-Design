@@ -1,0 +1,2 @@
+Step 1
+Begin with your standard HTML boilerplate. Add a DOCTYPE declaration, an html element, a head element, and a body element.

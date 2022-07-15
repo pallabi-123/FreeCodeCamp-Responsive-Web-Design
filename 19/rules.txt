@@ -1,0 +1,2 @@
+Step 19
+Smooth out your images a bit by giving the #gallery img selector a border-radius property of 10px.

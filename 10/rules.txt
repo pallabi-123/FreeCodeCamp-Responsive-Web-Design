@@ -1,0 +1,2 @@
+Step 10
+Align your .header text in the center, give it a padding of 32px on all sides, and set the background to #E0DDDD.
