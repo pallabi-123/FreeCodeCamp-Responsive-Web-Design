@@ -1,0 +1,4 @@
+Step 4
+Within the body element, create a div with the class set to header.
+
+Inside the .header element nest an h1 element with the text CSS FLEXBOX PHOTO GALLERY.

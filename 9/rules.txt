@@ -1,0 +1,2 @@
+Step 9
+Remove the margin from your body element, set the font to Arial, and give it a background color of #EBE7E7.

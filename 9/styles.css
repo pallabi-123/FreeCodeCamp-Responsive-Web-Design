@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  background-color: #EBE7E7;
+}
+
+#gallery img {
+  width: 25%;
+  height: 300px;
+}

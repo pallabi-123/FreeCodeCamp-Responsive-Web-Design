@@ -1,0 +1,4 @@
+Step 6
+Now you need to give each img element a src attribute. You are going to use the format https://cdn.freecodecamp.org/curriculum/css-photo-gallery/#.jpg, replacing # with the img element order.
+
+So your first img element would use 1.jpg, your second would use 2.jpg, and so on.

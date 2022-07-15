@@ -1,0 +1,4 @@
+Step 5
+Below your .header element, create a new div element with the id set to gallery.
+
+In that #gallery element, create ten img elements.
