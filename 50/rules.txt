@@ -1,0 +1,4 @@
+Step 50
+Set the width of the section elements to 80% of their parent container. Then, use margins to center the section elements, adding 10px to the bottom margin.
+
+Also, ensure the section elements cannot be larger than 600px in width.

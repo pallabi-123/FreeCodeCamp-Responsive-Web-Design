@@ -1,0 +1,4 @@
+Step 48
+When the screen width is small, the h1 does not wrap its text content how it should. Align the text for the h1 element in the center.
+
+Then, give the main padding such that the Student Info section header can be fully seen.
