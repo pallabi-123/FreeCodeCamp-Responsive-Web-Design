@@ -1,0 +1,2 @@
+Step 18
+To be able to navigate within the page, give each anchor element an href corresponding to the id of the h2 elements.

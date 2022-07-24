@@ -1,0 +1,9 @@
+Step 16
+Every region role requires a visible label, which should be referenced by the aria-labelledby attribute.
+
+To the section elements, give the following aria-labelledby attributes:
+
+student-info
+html-questions
+css-questions
+Then, within each section element, nest one h2 element with an id matching the corresponding aria-labelledby attribute. Give each h2 suitable text content.

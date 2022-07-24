@@ -1,0 +1,4 @@
+Step 15
+To increase the page accessibility, the role attribute can be used to indicate the purpose behind an element on the page to assistive technologies. The role attribute is a part of the Web Accessibility Initiative (WAI), and accepts preset values.
+
+Give each of the section elements the region role.
