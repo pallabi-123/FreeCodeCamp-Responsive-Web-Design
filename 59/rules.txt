@@ -1,0 +1,4 @@
+Step 59
+It is useful to see the default border around the fieldset elements, during development. However, it might not be the style you want.
+
+Remove the border and bottom padding on the .question elements.

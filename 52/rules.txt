@@ -1,0 +1,2 @@
+Step 52
+Add padding to the top and left of the .info elements, and set the other values to 0.

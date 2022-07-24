@@ -1,0 +1,2 @@
+Step 62
+Set the footer background color to #2a2a40, and use Flexbox to horizontally center the text.

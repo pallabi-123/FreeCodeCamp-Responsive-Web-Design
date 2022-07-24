@@ -1,0 +1,2 @@
+Step 64
+Horizontally center all the text within the address element, and add some padding.

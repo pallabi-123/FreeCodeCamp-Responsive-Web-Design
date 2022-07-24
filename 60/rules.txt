@@ -1,0 +1,2 @@
+Step 60
+Remove the default styling for the list items of .answers-list, and remove the unordered list padding.
