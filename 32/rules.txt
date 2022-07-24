@@ -1,0 +1,4 @@
+Step 32
+If you click on the radio inputs, you might notice both inputs within the same true/false fieldset can be selected at the same time.
+
+Group the relevant inputs together such that only one input from a pair can be selected at a time.

@@ -1,0 +1,4 @@
+Step 31
+Give the label elements text such that the input comes before the text. Then, give the input elements a value matching the text.
+
+The text should either be True or False.
