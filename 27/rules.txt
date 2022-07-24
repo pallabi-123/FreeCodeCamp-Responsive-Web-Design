@@ -1,0 +1,4 @@
+Step 27
+Each fieldset will contain a true/false question.
+
+Within each fieldset, nest one legend element, and one ul element with two options.
