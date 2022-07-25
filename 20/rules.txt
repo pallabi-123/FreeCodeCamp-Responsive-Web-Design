@@ -1,2 +1,0 @@
-Step 20
-Within the tbody element, add four tr elements. Give the first three the class attribute set to data, and the fourth the class attribute set to total.
