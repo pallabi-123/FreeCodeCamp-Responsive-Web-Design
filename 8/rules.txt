@@ -1,4 +1,0 @@
-Step 8
-HTML tables use the caption element to describe what the table is about. The caption element should always be the first child of a table, but can be positioned with the caption-side CSS property.
-
-Add a caption element to your first table, and give it the text Assets.
