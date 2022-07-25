@@ -1,0 +1,4 @@
+Step 46
+Rather than having to constantly double-check you are not overwriting your earlier properties, you can use the !important keyword to ensure these properties are always applied, regardless of order or specificity.
+
+Give each property in your span[class~="sr-only"] selector an !important keyword. Do not change any of the values.
