@@ -1,0 +1,2 @@
+Step 18
+Within your thead, add a tr. Inside that, add a td and three th elements.
