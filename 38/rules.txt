@@ -1,0 +1,2 @@
+Step 38
+Use an id selector to create a rule for your black-character element. Set the width to 300px, the height to 500px, and the background-color to rgb(45, 31, 19).
