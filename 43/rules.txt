@@ -1,0 +1,3 @@
+Step 43
+Now position the black-hat element. Give it a position of absolute, with a top of -150px and a left of 0.
+
