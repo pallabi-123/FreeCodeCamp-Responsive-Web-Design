@@ -1,0 +1,2 @@
+Step 31
+Use an id selector to style your tan-table element. Give it a width of 450px, a height of 140px, and a background-color of #D2691E.
