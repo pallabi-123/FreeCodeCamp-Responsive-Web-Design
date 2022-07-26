@@ -1,0 +1,2 @@
+Step 59
+Select your td elements with the class value of current, and make the font italic.
