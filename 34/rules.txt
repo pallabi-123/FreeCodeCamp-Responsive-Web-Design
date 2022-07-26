@@ -1,0 +1,2 @@
+Step 34
+After your div#offwhite-character element, add a div with the id of black-character.
