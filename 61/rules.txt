@@ -1,0 +1,2 @@
+Step 61
+Use another FontAwesome icon for your guitar. Inside both the guitar-left and guitar-right elements, add an i element and give it a class of fas fa-bars.
