@@ -1,0 +1,2 @@
+Step 41
+Set the border-width of the black-hat to 150px 0 0 300px.
