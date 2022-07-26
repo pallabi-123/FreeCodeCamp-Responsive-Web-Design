@@ -1,0 +1,2 @@
+Step 30
+Move the dots into place by setting the display to block, the margin to auto, and the margin-top to 65%.
