@@ -1,0 +1,2 @@
+Step 48
+Set the z-index of the white-paper to 1.
