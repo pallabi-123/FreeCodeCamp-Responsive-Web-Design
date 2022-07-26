@@ -1,0 +1,2 @@
+Step 79
+Now use a class selector to target guitar. This will style the two "halves" of your guitar. Set the width to 150px, the height to 120px, the background-color to Goldenrod, and the border-radius to 50%.
