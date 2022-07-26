@@ -1,0 +1,2 @@
+Step 67
+Put the black-round-hat on the correct layer with a z-index of -1.
