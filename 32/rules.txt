@@ -1,0 +1,2 @@
+Step 32
+Move the table into place by giving it a position of absolute, a top value of 275px, and a left value of 15px.
