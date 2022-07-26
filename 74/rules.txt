@@ -1,0 +1,2 @@
+Step 74
+Give your triangle elements the correct color. Set the border-top-color, border-bottom-color, and border-left-color to transparent. Set the border-right-color to Gold.
