@@ -1,0 +1,2 @@
+Step 18
+Using an id selector, style your white-hat element. Give it a width and height of 0, and a border-style of solid.
