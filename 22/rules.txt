@@ -1,0 +1,2 @@
+Step 22
+Using an id selector, create a rule for your black-mask element. Give it a width of 100%, a height of 50px, and a background-color of rgb(45, 31, 19).
