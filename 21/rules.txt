@@ -1,0 +1,4 @@
+Step 21
+The piano needs the freeCodeCamp logo to make it official.
+
+Add an img element before your .keys element. Give the img a class of logo, and set the src to https://cdn.freecodecamp.org/platform/universal/fcc_primary.svg. Give it an alt text of freeCodeCamp Logo.
