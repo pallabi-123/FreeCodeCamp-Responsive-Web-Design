@@ -1,0 +1,2 @@
+Step 40
+Use an id selector to create a rule for your black-hat element. Give it a width of 0, a height of 0, and a border-style of solid.
