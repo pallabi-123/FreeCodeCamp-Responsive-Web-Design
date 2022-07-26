@@ -1,0 +1,2 @@
+Step 28
+Use a class selector to create a rule for the black-dot elements. Set the width to 10px, the height to 10px, and the background-color to rgb(45, 31, 19).
