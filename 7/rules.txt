@@ -1,0 +1,2 @@
+Step 7
+Now copy the set of seven .key elements, and paste two more sets into the .keys div.
