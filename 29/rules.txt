@@ -1,0 +1,2 @@
+Step 29
+These dots are just a little too square. Give the black-dot class a border-radius of 50% to fix it.
