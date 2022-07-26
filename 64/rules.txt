@@ -1,0 +1,2 @@
+Step 64
+Style your black-round-hat element with an id selector. Set the width to 180px, the height to 150px, and the background-color to rgb(45, 31, 19).
