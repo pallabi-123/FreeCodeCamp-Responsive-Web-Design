@@ -1,0 +1,2 @@
+Step 84
+Now move the guitar-neck with a position of absolute, a top value of 45px, and a left value of 200px.
