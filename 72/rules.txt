@@ -1,0 +1,2 @@
+Step 72
+Create a class selector for your triangle elements. Set the width to 0 and the height to 0.
