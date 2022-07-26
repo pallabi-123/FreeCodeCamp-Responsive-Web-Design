@@ -1,0 +1,2 @@
+Step 58
+Give your tr.total elements a hover effect that changes the background to #99c9ff.
