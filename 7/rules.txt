@@ -1,0 +1,2 @@
+Step 7
+Use an id selector to give the back-wall element a background-color of #8B4513.
