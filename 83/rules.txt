@@ -1,2 +1,0 @@
-Step 83
-Use an id selector to create a guitar-neck rule. Set the width to 200px, the height to 30px, and the background-color to #D2691E.
