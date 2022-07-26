@@ -1,0 +1,2 @@
+Step 52
+Select the blue-left element with an id selector. Give it a width of 500px and a height of 300px.
