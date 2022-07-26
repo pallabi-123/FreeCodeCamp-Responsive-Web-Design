@@ -1,0 +1,2 @@
+Step 63
+Give the orange-character a position of absolute, a top of 25%, and a left of 40%.
