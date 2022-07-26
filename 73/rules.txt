@@ -1,0 +1,2 @@
+Step 73
+Style the border of your triangle elements. Set the border-style to solid and the border-width to 42px 45px 45px 0.
