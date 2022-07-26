@@ -1,0 +1,2 @@
+Step 45
+Position the gray-mask by setting position to absolute, the top to -10px, and the left to 70px.
