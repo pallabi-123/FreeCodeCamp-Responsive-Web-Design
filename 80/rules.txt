@@ -1,0 +1,2 @@
+Step 80
+Select the id with value guitar-left, and set the position to absolute and the left to 0px.
