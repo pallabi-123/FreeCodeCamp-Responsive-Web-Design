@@ -1,0 +1,2 @@
+Step 42
+Just like with your white-hat, you should style the border for the black-hat element. Give it a border-top-color, border-right-color, and border-bottom-color of transparent. Set the border-left-color to rgb(45, 31, 19).
