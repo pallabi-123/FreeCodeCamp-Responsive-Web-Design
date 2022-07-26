@@ -1,0 +1,2 @@
+Step 68
+Use an id selector to create a rule for your eyes-div element. Set the width to 180px and the height to 50px.
