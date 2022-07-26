@@ -1,0 +1,4 @@
+Step 3
+Go ahead and link your CSS file now, even though you have not written any CSS yet.
+
+Add a link element with a rel of stylesheet and an href of styles.css.
