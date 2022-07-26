@@ -1,0 +1,2 @@
+Step 85
+Give the guitar-neck a z-index of 3.
