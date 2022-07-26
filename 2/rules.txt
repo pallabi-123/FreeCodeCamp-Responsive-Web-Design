@@ -1,0 +1,2 @@
+Step 2
+Within your head element, add a meta tag with the charset attribute set to utf-8. Also add a title element with the text Picasso Painting.
