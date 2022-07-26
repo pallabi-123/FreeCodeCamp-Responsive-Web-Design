@@ -1,0 +1,2 @@
+Step 86
+Time to style your eyes elements. Use a class selector to set the width to 35px, the height to 20px, the background-color to #8B4513, and the border-radius to 20px 50%.
