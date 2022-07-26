@@ -1,0 +1,2 @@
+Step 25
+Using an id selector, give your gray-instrument element a width of 15%, a height of 40%, and a background-color of rgb(167, 162, 117).
