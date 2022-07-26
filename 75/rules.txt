@@ -1,0 +1,2 @@
+Step 75
+Adjust the layout of the triangle elements with a display of inline-block.
