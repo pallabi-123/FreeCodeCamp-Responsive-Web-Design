@@ -1,0 +1,2 @@
+Step 70
+Give the eyes-div a z-index of 3.
