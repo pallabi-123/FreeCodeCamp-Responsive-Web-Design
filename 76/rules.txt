@@ -1,0 +1,2 @@
+Step 76
+Now use an id selector for guitar. Set the width to 100%, and the height to 100px.
