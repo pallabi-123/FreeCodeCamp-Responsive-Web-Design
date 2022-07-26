@@ -1,0 +1,2 @@
+Step 24
+To ensure you can see the mask, give it a z-index of 1.
