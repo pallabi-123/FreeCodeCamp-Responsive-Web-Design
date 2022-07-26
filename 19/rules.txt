@@ -1,0 +1,2 @@
+Step 19
+That does not look quite right. Set a border-width of 0 120px 140px 180px to size the hat properly.
