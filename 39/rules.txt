@@ -1,0 +1,2 @@
+Step 39
+Move the black-character element into place by setting the position to absolute, the top to 30%, and the left to 59%.
