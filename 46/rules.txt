@@ -1,0 +1,2 @@
+Step 46
+Using an id selector, create a rule for the white-paper element. Set the width to 400px, the height to 100px, and the background-color to GhostWhite.
