@@ -1,0 +1,2 @@
+Step 61
+Select the th elements within your tr.data elements. Align the text to the left, and give them a top padding of 0.3rem and a left padding of 0.5rem.
