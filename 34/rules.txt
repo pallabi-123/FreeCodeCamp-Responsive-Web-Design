@@ -1,0 +1,2 @@
+Step 34
+Now that you did that, you can delete the old .foreground-buildings declaration and all of its properties since they aren't needed anymore.
