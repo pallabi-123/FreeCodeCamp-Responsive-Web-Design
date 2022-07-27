@@ -1,2 +1,0 @@
-Step 12
-Set the margin of the #piano to 80px auto.
