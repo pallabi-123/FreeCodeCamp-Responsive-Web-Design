@@ -1,2 +1,0 @@
-Step 14
-Give the .keys a padding-left of 2px.
