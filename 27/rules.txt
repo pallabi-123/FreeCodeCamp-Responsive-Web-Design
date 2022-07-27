@@ -1,0 +1,2 @@
+Step 27
+Now you need to make it responsive. Add a @media query with a max-width of 768px.
