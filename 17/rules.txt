@@ -1,2 +1,0 @@
-Step 17
-Give the .key a margin of 2px and a float property set to left.
