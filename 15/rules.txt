@@ -1,2 +1,0 @@
-Step 15
-Move the keys into position by adjusting the #piano selector. Set the padding property to 90px 20px 0 20px.
