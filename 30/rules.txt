@@ -1,2 +1,0 @@
-Step 30
-Now add a .logo selector to the @media query, and set the width property to 150px.
