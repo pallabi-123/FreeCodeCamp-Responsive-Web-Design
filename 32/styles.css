@@ -64,6 +64,6 @@ html {
   }
 }
 
-@media (min-width: 769px) and (max-width: 1199px){
-  
+@media (max-width: 1199px) and (min-width: 769px) {
+ 
 }
