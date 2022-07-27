@@ -1,0 +1,2 @@
+Step 66
+Move the display, flex-direction, and align-items properties and values from .bb1 to the new building-wrap class.
