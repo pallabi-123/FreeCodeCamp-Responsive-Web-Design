@@ -1,2 +1,0 @@
-Step 26
-Give the .key.black--key::after selector a border-radius of 0 0 3px 3px to match the keys.
