@@ -1,0 +1,2 @@
+Step 32
+Add another @media rule to apply if the browser window is bigger than 769px but smaller than 1199px.
