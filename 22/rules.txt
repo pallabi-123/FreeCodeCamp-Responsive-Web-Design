@@ -1,0 +1,2 @@
+Step 22
+Create a new variable below the other one called --building-color2 and give it a value of #66cc99. Then set it as the background-color of .bb2.
