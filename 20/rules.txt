@@ -1,2 +1,0 @@
-Step 20
-For the .key.black--key::after, set the width to 32px and the height to 100px.
