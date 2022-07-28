@@ -1,0 +1,2 @@
+Step 109
+You can remove the background-color for this building now, since it isn't needed.
