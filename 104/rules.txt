@@ -1,0 +1,2 @@
+Step 104
+On to the next building! It's the green one in the foreground. Give it a repeating-linear-gradient with your building color from 0% to 5%, and transparent from 5% to 10%.
