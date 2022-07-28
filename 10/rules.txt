@@ -1,0 +1,8 @@
+Step 10
+Within each of your new a elements, add an i element and give them the following classes:
+
+Your first i element should have the class fab fa-facebook-f
+Your second i element should have the class fab fa-twitter
+Your third i element should have the class fab fa-instagram
+Your fourth i element should have the class fab fa-linkedin-in
+Your fifth i element should have the class fab fa-youtube
