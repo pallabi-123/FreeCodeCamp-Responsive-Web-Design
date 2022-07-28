@@ -1,0 +1,2 @@
+Step 5
+After your img element, add an h1 element with the class set to hero-title and the text set to OUR NEW CURRICULUM, followed by a p element with the class set to hero-subtitle and the text set to Our efforts to restructure our curriculum with a more project-based focus.
