@@ -1,0 +1,2 @@
+Step 101
+Fill in the windows with your secondary color for this building. Also add a margin of 10% to give the windows some space.
