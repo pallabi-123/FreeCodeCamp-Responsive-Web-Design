@@ -1,0 +1,10 @@
+Step 78
+You can add multiple gradients to an element by separating them with a comma (,) like this:
+
+gradient1(
+  colors
+),
+gradient2(
+  colors
+);
+Add a repeating-linear-gradient to .fb1c below the one that's there; use your --building-color4 from 0% to 10% and --window-color4 from 10% and 90%. This will fill in behind the gradient you added last.
