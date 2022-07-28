@@ -1,0 +1,4 @@
+Step 1
+Begin with your standard HTML boilerplate. Add a DOCTYPE declaration, an html element, a head element, and a body element.
+
+Add a <meta> tag with the appropriate charset and a <meta> tag for mobile responsiveness within the head element.
