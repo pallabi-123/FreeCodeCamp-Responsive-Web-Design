@@ -1,0 +1,2 @@
+Step 3
+Within your body, create a main element. Then in that element, create a section with a class set to heading.
