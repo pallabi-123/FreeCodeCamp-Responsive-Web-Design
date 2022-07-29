@@ -1,0 +1,2 @@
+Step 63
+To make the quote text stand out more, give the .quote selector a font-family property set to Raleway with a fallback of sans-serif.
