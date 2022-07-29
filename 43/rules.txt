@@ -1,0 +1,2 @@
+Step 43
+You should remove the temporary width attribute before writing the CSS for your .hero-img.
