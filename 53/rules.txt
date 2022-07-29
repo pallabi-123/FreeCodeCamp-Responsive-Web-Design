@@ -1,0 +1,4 @@
+Step 53
+Now the auto-placement algorithm will kick in when you add a new icon element. However, the algorithm defaults the new column width to be auto, which will not match your current columns.
+
+You can override this with the grid-auto-columns property. Give the .social-icons selector a grid-auto-columns property set to 1fr.
