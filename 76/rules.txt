@@ -1,0 +1,2 @@
+Step 76
+Create an .image-1, .image-3 rule and give it a grid-column property set to 1 / -1. This will allow the first and third images to span the full width of the grid.
