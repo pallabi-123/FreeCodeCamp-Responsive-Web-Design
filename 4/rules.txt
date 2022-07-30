@@ -1,0 +1,2 @@
+Step 4
+Set the position property of the .wheel selector to absolute. Set the height and width both to 55vw.
