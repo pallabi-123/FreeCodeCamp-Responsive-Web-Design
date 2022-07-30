@@ -1,0 +1,2 @@
+Step 7
+Set the .line selector's position property to absolute, the left property to 50%, and the top property to 50%.
