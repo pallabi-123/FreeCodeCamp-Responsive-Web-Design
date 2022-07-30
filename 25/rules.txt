@@ -1,0 +1,2 @@
+Step 25
+You can use @keyframes rules to control more than just the transformation of an element. In the 0% selector of your @keyframes cabins, set the background-color to yellow.
