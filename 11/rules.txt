@@ -1,0 +1,2 @@
+Step 11
+Target the .penguin element, and set its width and height to 300px.
