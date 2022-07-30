@@ -1,0 +1,4 @@
+Step 54
+Much like Flexbox, with CSS Grid you can align the content of grid items with align-items and justify-items. align-items will align child elements along the column axis, and justify-items will align child elements along the row axis.
+
+Give the .social-icons selector an align-items property set to center.

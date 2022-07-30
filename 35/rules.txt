@@ -1,0 +1,2 @@
+Step 35
+To add space between rows in the grid layout, you can use the row-gap property. Give the main selector a row-gap property of 3rem.

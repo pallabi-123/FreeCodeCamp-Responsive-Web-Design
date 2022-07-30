@@ -1,0 +1,2 @@
+Step 22
+Within the .image-wrapper element, give your first img element a src of https://cdn.freecodecamp.org/testable-projects-fcc/images/random-quote-machine.png, an alt of image of the quote machine project, a class of image-1, a loading attribute set to lazy, a width attribute of 600, and a height attribute of 400.

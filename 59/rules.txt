@@ -1,0 +1,2 @@
+Step 59
+The other text has been shifted out of place. Move it into position by giving the .first-paragraph::first-letter selector a float property set to left and a margin-right property set to 1rem.
