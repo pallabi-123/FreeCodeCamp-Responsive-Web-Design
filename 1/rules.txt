@@ -1,0 +1,6 @@
+Step 1
+Begin with the standard boilerplate. Add your DOCTYPE declaration, your html element, your head and body elements.
+
+Add your meta element for the correct charset, your title element, and a link element for the ./styles.css file.
+
+Set the title to Ferris Wheel.
