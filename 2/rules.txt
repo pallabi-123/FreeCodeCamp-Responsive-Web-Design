@@ -1,0 +1,4 @@
+Step 2
+Add a div within your body element and give it a class of wheel.
+
+Inside your new div, add six span elements with a class set to line, and six div elements with a class set to cabin.
