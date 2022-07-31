@@ -1,2 +1,0 @@
-Step 45
-Give the .face elements a width of 60%, a height of 70%, and a background-color of white.
