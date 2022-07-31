@@ -1,0 +1,2 @@
+Step 36
+Position the .penguin-body element 40% from the top, and 23.5% from the left of its parent.

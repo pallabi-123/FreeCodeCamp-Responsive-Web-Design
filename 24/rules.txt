@@ -1,0 +1,2 @@
+Step 24
+To finish the background, add a sun, by creating a new div element immediately after the .back-mountain element, and give it the class of sun.

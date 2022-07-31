@@ -1,0 +1,2 @@
+tep 27
+Position the sun in the top right corner of the screen such that 75px of its top and right edges are off screen.

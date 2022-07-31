@@ -1,0 +1,2 @@
+Step 4
+Normalise your page, by setting the width to 100%, and height to 100vh.

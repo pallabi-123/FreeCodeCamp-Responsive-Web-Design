@@ -1,0 +1,2 @@
+Step 18
+To overlap the mountain and .ground elements better, give the mountain a margin-top of 100px, and the .ground element a margin-top of -58px.

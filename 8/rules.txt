@@ -1,0 +1,2 @@
+Step 8
+Give the .ground element a background with a linear gradient angled 90 degrees clockwise, starting at rgb(88, 175, 236) and ending at rgb(182, 255, 255).
