@@ -1,0 +1,2 @@
+Step 58
+Position the .eye elements 45% from the top of their parent, and give all corners a radius of 50%.
