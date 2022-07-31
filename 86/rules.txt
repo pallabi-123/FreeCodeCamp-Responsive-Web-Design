@@ -1,0 +1,4 @@
+Step 86
+Fun fact: Penguins cannot fly without wings.
+
+Within .penguin-body, before the .foot elements, add two div elements each with a class of arm. Give the first .arm a class of left, and the second .arm a class of right.
