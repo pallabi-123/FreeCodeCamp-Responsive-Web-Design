@@ -1,4 +1,0 @@
-Step 31
-Most penguins do not have a square head.
-
-Give the penguin a slightly oval head by setting the radius of the top corners to 70% and the radius of the bottom corners to 65%.
