@@ -1,2 +1,0 @@
-Step 3
-Normalise your page's sizing, by removing the body element's margin and padding.
