@@ -1,4 +1,0 @@
-Step 33
-Another interesting fact about penguins is that they do not have square bodies.
-
-Use the border-radius property with a value of 80% 80% 100% 100%, to give the penguin a slightly rounded body.
