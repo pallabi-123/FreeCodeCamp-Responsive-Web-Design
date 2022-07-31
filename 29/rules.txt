@@ -1,2 +1,0 @@
-Step 29
-Change the stack level of the .penguin element such that it appears in front of the .ground element, and give it a position of relative.
