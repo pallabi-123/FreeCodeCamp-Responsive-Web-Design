@@ -1,2 +1,0 @@
-Step 41
-Position the pseudo-element 10% from the top and 25% from the left of its parent.
