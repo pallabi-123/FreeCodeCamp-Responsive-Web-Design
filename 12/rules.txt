@@ -1,2 +1,0 @@
-Step 12
-Use the margin property to horizontally center the .penguin element, and set the margin-top to 75px.
