@@ -98,10 +98,10 @@ body {
   border-radius: 50%;
 }
 
-.left.eye {
+.eye.left {
   left: 25%;
 }
-.right.eye {
+.eye.right {
   right: 25%;
 }
 
