@@ -1,2 +1,0 @@
-Step 35
-Position the .penguin-head element 10% from the top, and 25% from the left of its parent.
