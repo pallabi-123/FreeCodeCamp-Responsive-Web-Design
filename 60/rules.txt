@@ -1,0 +1,2 @@
+Step 60
+Within each .eye element, add a div with a class of eye-lid.
