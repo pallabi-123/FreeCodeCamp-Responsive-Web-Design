@@ -1,2 +1,0 @@
-Step 94
-Change the .arm elements' stacking order such that they appear behind the .penguin-body element.
