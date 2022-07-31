@@ -1,2 +1,0 @@
-Step 37
-Change the stack level of the .penguin-head element such that it appears in front of the .penguin-body element.
