@@ -1,2 +1,0 @@
-Step 21
-Set the position property of the .back-mountain to prevent it from taking up space in the page layout.
