@@ -1,2 +1,0 @@
-Step 51
-Below the .face.right element, add a div element with a class of chin.
