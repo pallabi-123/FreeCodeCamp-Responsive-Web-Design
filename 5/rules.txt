@@ -1,2 +1,0 @@
-Step 5
-Remove both the horizontal and vertical scrollbars, and prevent programmatic scrolling, using only one property.
