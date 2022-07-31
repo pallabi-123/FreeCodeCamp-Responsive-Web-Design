@@ -1,2 +1,0 @@
-Step 17
-Set the stack level of the mountain element such that it remains directly behind the .ground element.
