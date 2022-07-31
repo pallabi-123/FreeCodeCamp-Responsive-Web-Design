@@ -1,2 +1,0 @@
-Step 47
-Position the .face elements so that they are 15% from the top.
