@@ -1,2 +1,0 @@
-Step 76
-Position the div with the heart emoji 22.5px from the top, and 12px from the left of its parent.
