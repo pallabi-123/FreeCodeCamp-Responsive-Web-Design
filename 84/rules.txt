@@ -1,2 +1,0 @@
-Step 84
-To make the penguin's feet look more penguiny, rotate the left foot by 80deg, and the right by -80deg.
