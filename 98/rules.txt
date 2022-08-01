@@ -1,0 +1,2 @@
+Step 98
+Within the second waypoint, rotate to 130deg, and retain the scaling of the left arm.
