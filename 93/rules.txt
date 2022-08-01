@@ -1,4 +1,0 @@
-Step 93
-Fun fact: Most, if not all, flippers are not naturally rectangles.
-
-Give the .arm elements top -left, -right, and bottom-right corners a radius of 30%, and the bottom-left corner a radius of 120%.
