@@ -1,2 +1,0 @@
-Step 92
-Rotate the right arm by 45deg counterclockwise.
