@@ -1,4 +1,0 @@
-Step 82
-The penguin's beak and feet share the same color.
-
-Create a new custom CSS variable named --penguin-picorna, and replace all relavant property values with it.
