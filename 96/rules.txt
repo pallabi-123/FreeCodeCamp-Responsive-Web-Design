@@ -1,2 +1,0 @@
-Step 96
-Give wave four waypoints starting at 10%, and incrementing by 10%.
