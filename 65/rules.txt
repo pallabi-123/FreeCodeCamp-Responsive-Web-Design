@@ -1,2 +1,0 @@
-Step 65
-Position the .blush elements 65% from the top of their parent, and give all corners a radius of 50%.
