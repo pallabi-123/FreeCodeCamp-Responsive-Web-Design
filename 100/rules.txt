@@ -1,0 +1,2 @@
+Step 100
+Use the wave animation on the left arm. Have the animation last 3s, infinitely iterate, and have a linear timing function.
