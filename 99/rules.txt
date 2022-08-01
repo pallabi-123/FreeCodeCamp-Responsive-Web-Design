@@ -1,2 +1,0 @@
-Step 99
-For the third and fourth waypoints, repeat the transform pattern once more.
