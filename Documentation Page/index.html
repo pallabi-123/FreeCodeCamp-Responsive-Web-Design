@@ -1,0 +1,849 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <nav id="navbar">
+      <header>JavaScript Documentation</header>
+      <ul>
+        <li><a class="nav-link" href="#Introduction">Introduction</a></li>
+        <li>
+          <a class="nav-link" href="#JS_Full_Form">JS Full Form</a>
+        </li>
+        <li>
+          <a
+            class="nav-link"
+            href="#Where_to_put_JavaScript_in_an_HTML_Document_?"
+            >Where to put JavaScript in an HTML Document ?</a
+          >
+        </li>
+        <li><a class="nav-link" href="#JavaScript_Statements">JavaScript | Statements</a></li>
+        <li><a class="nav-link" href="#Variables">Variables</a></li>
+        <li>
+          <a class="nav-link" href="#Declaring_variables"
+            >Declaring variables</a
+          >
+        </li>
+        <li><a class="nav-link" href="#Variable_scope">Variable scope</a></li>
+        <li>
+          <a class="nav-link" href="#Global_variables">Global variables</a>
+        </li>
+        <li><a class="nav-link" href="#Constants">Constants</a></li>
+        <li><a class="nav-link" href="#Data_types">Data types</a></li>
+        <li>
+          <a class="nav-link" href="#if...else_statement"
+            >if...else statement</a
+          >
+        </li>
+        <li><a class="nav-link" href="#while_statement">while statement</a></li>
+        <li>
+          <a class="nav-link" href="#Function_declarations"
+            >Function declarations</a
+          >
+        </li>
+        <li><a class="nav-link" href="#Reference">Reference</a></li>
+      </ul>
+    </nav>
+    <main id="main-doc">
+      <section class="main-section" id="Introduction">
+        <header>Introduction</header>
+        <article>
+          <p>
+            JavaScript is a lightweight, cross-platform, and interpreted
+            compiled programming language which is also known as the scripting
+            language for webpages. It is well-known for the development of web
+            pages, many non-browser environments also use it. JavaScript can be
+            used for Client-side developments as well as Server-side
+            developments. Javascript is both imperative and declarative type of
+            language. JavaScript contains a standard library of objects, like
+            Array, Date, and Math, and a core set of language elements like
+            operators, control structures, and statements.
+          </p>
+          <ul>
+            <li>
+              <strong>Client-side:</strong> It supplies objects to control a
+              browser and its Document Object Model (DOM). Like if client-side
+              extensions allow an application to place elements on an HTML form
+              and respond to user events such as mouse clicks, form input, and
+              page navigation. Useful libraries for the client-side are
+              AngularJS, ReactJS, VueJS and so many others.
+            </li>
+            <li>
+              <strong>Server-side:</strong> It supplies objects relevant to
+              running JavaScript on a server. Like if the server-side extensions
+              allow an application to communicate with a database, and provide
+              continuity of information from one invocation to another of the
+              application, or perform file manipulations on a server. The useful
+              framework which is the most famous these days is node.js.
+            </li>
+            <li>
+              <strong>Imperative language:</strong> In this type of language we
+              are mostly concern about how it is to be done . It simply control
+              the flow of computation . The procedural programming approach ,
+              object, oriented approach comes under this like async await we are
+              thinking what it is to be done further after async call.
+            </li>
+            <li>
+              <strong>Declarative programming:</strong> In this type of language
+              we are concern about how it is to be done , basically here logical
+              computation require . Here main goal is to describe the desired
+              result without direct dictation on how to get it like arrow
+              function do .
+            </li>
+          </ul>
+          <p><b>JavaScript can be added to your HTML file in two ways:</b></p>
+          <ul>
+            <li>
+              <strong>Internal JS:</strong> We can add JavaScript directly to
+              our HTML file by writing the code inside the
+              <b
+                ><u><mark>script</mark></u></b
+              >
+              tag. The
+              <b
+                ><u><mark>script</mark></u></b
+              >
+              tag can either be placed inside the
+              <b
+                ><u><mark>head</mark></u></b
+              >
+              or the
+              <b
+                ><u><mark>body</mark></u></b
+              >
+              tag according to the requirement.
+            </li>
+            <li>
+              <strong>External JS:</strong> We can write JavaScript code in
+              other file having an extension.js and then link this file inside
+              the
+              <b
+                ><u><mark>head</mark></u></b
+              >
+              tag of the HTML file in which we want to add this code.
+            </li>
+          </ul>
+
+          <h3>History of Javascript:</h3>
+          <p>
+            It was created in 1995 by Brendan Eich while he was an engineer at
+            Netscape. It was originally going to be named LiveScript but was
+            renamed. Unlike most programming languages, the JavaScript language
+            has no concept of input or output. It is designed to run as a
+            scripting language in a host environment, and it is up to the host
+            environment to provide mechanisms for communicating with the outside
+            world. The most common host environment is the browser.
+          </p>
+
+          <h3>Features of JavaScript:</h3>
+          <ul>
+            <li>
+              JavaScript was created in the first place for DOM manipulation.
+              Earlier websites were mostly static, after JS was created dynamic
+              Web sites were made.
+            </li>
+            <li>
+              Functions in JS are objects. They may have properties and methods
+              just like another object. They can be passed as arguments in other
+              functions.
+            </li>
+            <li>Can handle date and time.</li>
+            <li>
+              Performs Form Validation although the forms are created using
+              HTML.
+            </li>
+            <li>No compiler is needed.</li>
+          </ul>
+
+          <h3>Applications of JavaScript:</h3>
+          <ul>
+            <li>
+              <strong>Web Development:</strong> Adding interactivity and
+              behavior to static sites JavaScript was invented to do this in
+              1995. By using AngularJS that can be achieved so easily.
+            </li>
+            <li>
+              <strong>Web Applications:</strong> With technology, browsers have
+              improved to the extent that a language was required to create
+              robust web applications. When we explore a map in Google Maps then
+              we only need to click and drag the mouse. All detailed view is
+              just a click away, and this is possible only because of
+              JavaScript. It uses Application Programming Interfaces(APIs) that
+              provide extra power to the code. The Electron and React is helpful
+              in this department.
+            </li>
+            <li>
+              <strong>Server Applications:</strong> With the help of Node.js,
+              JavaScript made its way from client to server and node.js is the
+              most powerful on the server-side.
+            </li>
+            <li>
+              <strong>Games: </strong>Not only in websites, but JavaScript also
+              helps in creating games for leisure. The combination of JavaScript
+              and HTML 5 makes JavaScript popular in game development as well.
+              It provides the EaseJS library which provides solutions for
+              working with rich graphics.
+            </li>
+            <li>
+              <strong>Smartwatches:</strong>JavaScript is being used in all
+              possible devices and applications. It provides a library PebbleJS
+              which is used in smartwatch applications. This framework works for
+              applications that require the internet for its functioning.
+            </li>
+            <li>
+              <strong>Art:</strong>Artists and designers can create whatever
+              they want using JavaScript to draw on HTML 5 canvas, and make the
+              sound more effective also can be used p5.js library.
+            </li>
+            <li>
+              <strong>Machine Learning:</strong>This JavaScript ml5.js library
+              can be used in web development by using machine learning.
+            </li>
+            <li>
+              <strong>Mobile Applications:</strong>JavaScript can also be used
+              to build an application for non-web contexts. The features and
+              uses of JavaScript make it a powerful tool for creating mobile
+              applications. This is a Framework for building web and mobile apps
+              using JavaScript. Using React Native, we can build mobile
+              applications for different operating systems. We do not require to
+              write code for different systems. Write once use it anywhere!
+            </li>
+          </ul>
+
+          <h3>Limitations of JavaScript:</h3>
+          <ul>
+            <li>
+              <strong> Security risks:</strong>JavaScript can be used to fetch
+              data using AJAX or by manipulating tags that load data such as
+              <b
+                ><u><mark>img</mark></u></b
+              >,
+              <b
+                ><u><mark>object</mark></u></b
+              >,<b
+                ><u><mark>script</mark></u></b
+              >
+              . These attacks are called cross site script attacks. They inject
+              JS that is not the part of the site into the visitor’s browser
+              thus fetching the details.
+            </li>
+            <li>
+              <strong>Performance: </strong> JavaScript does not provide the
+              same level of performance as offered by many traditional languages
+              as a complex program written in JavaScript would be comparatively
+              slow. But as JavaScript is used to perform simple tasks in a
+              browser, so performance is not considered a big restriction in its
+              use.
+            </li>
+            <li>
+              <strong>Complexity:</strong>To master a scripting language,
+              programmers must have a thorough knowledge of all the programming
+              concepts, core language objects, client and server-side objects
+              otherwise it would be difficult for them to write advanced scripts
+              using JavaScript.
+            </li>
+            <li>
+              <strong>Weak error handling and type checking facilities: </strong
+              >It is weakly typed language as there is no need to specify the
+              data type of the variable. So wrong type checking is not performed
+              by compile.
+            </li>
+          </ul>
+
+          <h3>
+            Why JavaScript is known as a lightweight programming language?
+          </h3>
+          <p>
+            JavaScript is considered as lightweight due to the fact that it has
+            low CPU usage, is easy to implement and has a minimalist syntax.
+            Minimalist syntax as in, it has no data types. Everything is treated
+            here as an object. It is very easy to learn because of its syntax
+            similar to C++ and Java.
+          </p>
+          <p>
+            A lightweight language does not consume much of your CPU’s
+            resources. It doesn’t put excess strain on your CPU or RAM.
+            JavaScript runs in the browser even though it has complex paradigms
+            and logic which means it uses fewer resources than other languages.
+            For example, NodeJs, a variation of JavaScript not only performs
+            faster computations but also uses less resources than its
+            counterparts such as Dart or Java.
+          </p>
+          <p>
+            Additionally, when compared with other programming languages, it has
+            less in-built libraries or frameworks, contributing as another
+            reason for it to be lightweight. However, this brings it a drawback
+            that we need to incorporate external libraries and frameworks.
+          </p>
+
+          <h3>Is JavaScript compiled or interpreted or both?</h3>
+          <p>
+            JavaScript is both compiled and interpreted. In the earlier versions
+            of JavaScript, it used only the interpreter that executed code line
+            by line and shows the result immediately. But with time the
+            performance became an issue as interpretation is quite slow.
+            Therefore, in the newer versions of JS, probably after the V8, JIT
+            compiler was also incorporated to optimize the execution and display
+            the result more quickly. This JIT compiler generates a bytecode that
+            is relatively easier to code. This bytecode is a set of highly
+            optimized instructions. The V8 engine initially uses an interpreter,
+            to interpret the code. On further executions, the V8 engine finds
+            patterns such as frequently executed functions, frequently used
+            variables, and compiles them to improve performance.
+          </p>
+          <p>
+            JavaScript is best known for web page development but it is also
+            used in a variety of non-browser environments.
+          </p>
+        </article>
+      </section>
+      <hr />
+      <section class="main-section" id="JS_Full_Form">
+        <header>JS Full Form</header>
+        <article>
+          <p>
+            JS stands for JavaScript. It is a lightweight, cross-platform, and
+            interpreted scripting language. It is well-known for the development
+            of web pages, many non-browser environments also use it. JavaScript
+            can be used for Client-side developments as well as Server-side
+            developments. JavaScript contains a standard library of objects,
+            like Array, Date, and Math, and a core set of language elements like
+            operators, control structures, and statements.
+          </p>
+          <img
+            src="https://media.geeksforgeeks.org/wp-content/uploads/20200428144352/Untitled-Diagram-153-1.png"
+            alt="JS released year"
+          />
+
+          <h3>Characteristics of JS:</h3>
+          <ul>
+            <li>
+              <strong>independent:</strong> JavaScript runs on browsers which is
+              available on all kinds of machines and is hence platform
+              independent.
+            </li>
+            <li>Good working knowledge of HyperText Markup Language (HTML).</li>
+            <li>
+              <strong>Dynamically typed languages:</strong> This language can
+              receive different data types over time.
+            </li>
+            <li>
+              <strong>Case Sensitive Format:</strong> JavaScript is case
+              sensitive so you have to be aware of that.
+            </li>
+            <li>
+              <strong>Light Weight: </strong> It is so lightweight, and all the
+              browsers are supported by JS.
+            </li>
+            <li>
+              <strong>Handling: </strong> Handling events is the main feature of
+              JS, it can easily respond on the website when the user tries to
+              perform any operation.
+            </li>
+            <li>
+              <strong>Interpreter Centered: </strong> JavaScript is built with
+              interpreter centered that allows the user to get the output
+              without the use of the compiler.
+            </li>
+          </ul>
+
+          <h3>Advantages of JS:</h3>
+          <ul>
+            <li>
+              JavaScript is executed on the user’s browsers not on the webserver
+              so it saves bandwidth and load on the webserver.
+            </li>
+            <li>
+              The JavaScript language is easy to learn it offers syntax that is
+              close to English language.
+            </li>
+            <li>
+              In JavaScript, if you ever need any certain feature then you can
+              write it by yourself and use an add-on like Greasemonkey to
+              implement it on the web page.
+            </li>
+            <li>
+              It does not require a compilation process so no compiler is needed
+              user’s browsers do the task.
+            </li>
+            <li>
+              JavaScript is easy to debug, and there are lots of frameworks
+              available that you can use and become master on that.
+            </li>
+            <li>
+              It is constantly being improved and newer features are being
+              introduced that significantly tamp down the lines of code for web
+              applications. For example, Arrow Functions were introduced in the
+              ES6 version which provides a short syntax to write anonymous
+              functions.
+            </li>
+          </ul>
+
+          <h3>Disadvantages of JS:</h3>
+          <ul>
+            <li>
+              JavaScript codes are visible to the user so user can place some
+              code into the site that compromises the security of data over the
+              website. That will be security issue.
+            </li>
+            <li>
+              All browsers interpret JavaScript that is correct, but they
+              interpret it differently from each other.
+            </li>
+            <li>
+              It only supports single inheritance, so in few cases may require
+              the object-oriented language characteristic.
+            </li>
+            <li>
+              A single error in code can totally stop the website’s code
+              rendering on the website.
+            </li>
+            <li>
+              JavaScript stores numbers as 64-bit floating-point numbers but
+              operators operate on 32-bit bitwise operands. JavaScript first
+              converts the number to 32 bit, performs the operation, and
+              converts it to 64 bit again which reduces its speed.
+            </li>
+          </ul>
+        </article>
+      </section>
+      <hr />
+      <section
+        class="main-section"
+        id="Where_to_put_JavaScript_in_an_HTML_Document_?"
+      >
+        <header>Where to put JavaScript in an HTML Document ?</header>
+        <article>
+          <ul>
+            <li>
+              <strong>JavaScript in body or head:</strong>Scripts can be placed
+              inside the body or the head section of an HTML page or inside both
+              head and body.
+            </li>
+            </ul>
+            <blockquote class="javascript-in-head">
+              <strong>JavaScript in head:</strong>A JavaScript function is
+              placed inside the head section of an HTML page and the function is
+              invoked when a button is clicked.
+          <!DOCTYPE html>
+          <html>
+            <head>
+              <script>
+                function gfg() {
+                  document.getElementById('demo').innerHTML = 'Hello World'
+                }
+              </script>
+            </head>
+            <body>
+              <h2>JavaScript in Head</h2>
+              <p id="demo" style="color: green">helloworld.</p>
+              <button type="button" onclick="gfg()">click it</button>
+            </body>
+          </html>
+          </blockquote>
+
+          <blockquote class="javascript-in-body">
+              <strong>JavaScript in body:</strong>A JavaScript function is placed inside the body section of an HTML page and the function is invoked when a button is clicked.
+          <!DOCTYPE html>
+            <html>
+              <center>
+              <body>
+                <h2>JavaScript in Body</h2>
+                <p id="hello" style="color: blue">helloworld.</p>
+                <button type="button" onclick="hw()">Try it</button>
+              <script>
+                function hw() {
+                document.getElementById("hello").innerHTML = "Hello World";
+            }
+          </script>
+      </body>
+    </center>
+</html>
+          </blockquote>
+
+          <ul>
+            <li><strong>External JavaScript:</strong>JavaScript can also be used as external files. JavaScript files have file extension .js . To use an external script put the name of the script file in the src attribute of a script tag. External scripts cannot contain script tags.
+          </li>
+          </ul>
+          
+            <h3>Advantages of External JavaScript:</h3>
+            <ul>
+              <li>Cached JavaScript files can speed up page loading</li>
+              <li>It makes JavaScript and HTML easier to read and maintain</li>
+              <li>It separates the HTML and JavaScript code</li>
+              <li>It focuses on code re usability that is one JavaScript Code can run in various HTML files.</li>
+            </ul>
+        </article>
+      </section>
+      <hr>
+      <section class="main-section" id="JavaScript_Statements">
+        <header>JavaScript | Statements</header>
+        <article>
+          The programming instructions written in a program in a programming language are known as statements. <br><br>
+          Order of execution of Statements is the same as they are written.
+          
+          <ol>
+            <li><strong>Semicolons:</strong></li>
+          
+          <ul>
+            <li><b>Semicolons</b> separate JavaScript statements.</li>
+            <li><b>Semicolon</b> marks the end of a statement in javascript.</li>
+          </ul>
+          <code>
+             // Statement 1
+        var a, b, c;
+  
+        // Statement 2
+        a = 2;
+  
+        // Statement 3
+        b = 3;
+  
+        // Statement 4
+        c = a + b;
+  
+        document.getElementById(
+          "geek").innerHTML =
+            "The value of c is " + c + ".";
+          </code>
+
+          <ul>
+            <li>Multiple statements on one line are allowed if they are separated with a semicolon.</li>
+          </ul>
+          <code>a=2;b=3;z=a+b;</code>
+
+            <li><strong>Code Blocks:</strong></li>
+            <blockquote class="Code-Blocks">JavaScript statements can be grouped together inside curly brackets. Such groups are known as <b>code blocks</b>. The purpose of grouping is to define statements to be executed together.
+          </ol>
+          <!DOCTYPE html>
+          <html>
+          <body>
+              <p>Welcome</p>
+              <button type="button" onclick="myFunction()">Click Me!</button>
+              <p id="hello1"></p>
+              <p id="hello2"></p>
+          <script>
+              function myFunction() {
+              document.getElementById(
+              "hello1").innerHTML = "Hello";
+              document.getElementById(
+              "hello2").innerHTML = 
+              "How are you?";
+              }
+          </script>
+          </body>
+          </html>
+            </blockquote>
+        </article>
+      </section>
+      <section class="main-section" id="Variables">
+        <header>Variables</header>
+        <p>
+          You use variables as symbolic names for values in your application.
+          The names of variables, called identifiers, conform to certain rules.
+        </p>
+        <p>
+          A JavaScript identifier must start with a letter, underscore (_), or
+          dollar sign ($); subsequent characters can also be digits (0-9).
+          Because JavaScript is case sensitive, letters include the characters
+          "A" through "Z" (uppercase) and the characters "a" through "z"
+          (lowercase).
+        </p>
+        <p>
+          You can use ISO 8859-1 or Unicode letters such as å and ü in
+          identifiers. You can also use the Unicode escape sequences as
+          characters in identifiers. Some examples of legal names are
+          Number_hits, temp99, and _name.
+        </p>
+      </section>
+      <section class="main-section" id="Declaring_variables">
+        <header>Declaring variables</header>
+        <article>
+          You can declare a variable in three ways:
+          <p>
+            With the keyword var. For example, <code>var x = 42.</code> This
+            syntax can be used to declare both local and global variables.
+          </p>
+          <p>
+            By simply assigning it a value. For example,
+            <code>x = 42.</code> This always declares a global variable. It
+            generates a strict JavaScript warning. You shouldn't use this
+            variant.
+          </p>
+          <p>
+            With the keyword let. For example,<code> let y = 13.</code> This
+            syntax can be used to declare a block scope local variable. See
+            Variable scope below.
+          </p>
+        </article>
+      </section>
+      <section class="main-section" id="Variable_scope">
+        <header>Variable scope</header>
+        <article>
+          <p>
+            When you declare a variable outside of any function, it is called a
+            global variable, because it is available to any other code in the
+            current document. When you declare a variable within a function, it
+            is called a local variable, because it is available only within that
+            function.
+          </p>
+
+          <p>
+            JavaScript before ECMAScript 2015 does not have block statement
+            scope; rather, a variable declared within a block is local to the
+            function (or global scope) that the block resides within. For
+            example the following code will log 5, because the scope of x is the
+            function (or global context) within which x is declared, not the
+            block, which in this case is an if statement.
+          </p>
+          <code>if (true) { var x = 5; } console.log(x); // 5</code>
+          <p>
+            This behavior changes, when using the let declaration introduced in
+            ECMAScript 2015.
+          </p>
+
+          <code
+            >if (true) { let y = 5; } console.log(y); // ReferenceError: y is
+            not defined</code
+          >
+        </article>
+      </section>
+      <section class="main-section" id="Global_variables">
+        <header>Global variables</header>
+        <article>
+          <p>
+            Global variables are in fact properties of the global object. In web
+            pages the global object is window, so you can set and access global
+            variables using the window.variable syntax.
+          </p>
+
+          <p>
+            Consequently, you can access global variables declared in one window
+            or frame from another window or frame by specifying the window or
+            frame name. For example, if a variable called phoneNumber is
+            declared in a document, you can refer to this variable from an
+            iframe as parent.phoneNumber.
+          </p>
+        </article>
+      </section>
+      <section class="main-section" id="Constants">
+        <header>Constants</header>
+        <article>
+          <p>
+            You can create a read-only, named constant with the const keyword.
+            The syntax of a constant identifier is the same as for a variable
+            identifier: it must start with a letter, underscore or dollar sign
+            and can contain alphabetic, numeric, or underscore characters.
+          </p>
+
+          <code>const PI = 3.14;</code>
+          <p>
+            A constant cannot change value through assignment or be re-declared
+            while the script is running. It has to be initialized to a value.
+          </p>
+
+          <p>
+            The scope rules for constants are the same as those for let block
+            scope variables. If the const keyword is omitted, the identifier is
+            assumed to represent a variable.
+          </p>
+
+          <p>
+            You cannot declare a constant with the same name as a function or
+            variable in the same scope. For example:
+          </p>
+
+          <code
+            >// THIS WILL CAUSE AN ERROR function f() {}; const f = 5; // THIS
+            WILL CAUSE AN ERROR ALSO function f() { const g = 5; var g;
+            //statements }</code
+          >
+          However, object attributes are not protected, so the following
+          statement is executed without problems.
+          <code
+            >const MY_OBJECT = {"key": "value"}; MY_OBJECT.key =
+            "otherValue";</code
+          >
+        </article>
+      </section>
+      <section class="main-section" id="Data_types">
+        <header>Data types</header>
+        <article>
+          <p>The latest ECMAScript standard defines seven data types:</p>
+          <ul>
+            <li>
+              <p>Six data types that are primitives:</p>
+              <ul>
+                <li>Boolean. true and false.</li>
+                <li>
+                  null. A special keyword denoting a null value. Because
+                  JavaScript is case-sensitive, null is not the same as Null,
+                  NULL, or any other variant.
+                </li>
+                <li>
+                  undefined. A top-level property whose value is undefined.
+                </li>
+                <li>Number. 42 or 3.14159.</li>
+                <li>String. "Howdy"</li>
+                <li>
+                  Symbol (new in ECMAScript 2015). A data type whose instances
+                  are unique and immutable.
+                </li>
+              </ul>
+            </li>
+
+            <li>and Object</li>
+          </ul>
+          Although these data types are a relatively small amount, they enable
+          you to perform useful functions with your applications. Objects and
+          functions are the other fundamental elements in the language. You can
+          think of objects as named containers for values, and functions as
+          procedures that your application can perform.
+        </article>
+      </section>
+      <section class="main-section" id="if...else_statement">
+        <header>if...else statement</header>
+        <article>
+          Use the if statement to execute a statement if a logical condition is
+          true. Use the optional else clause to execute a statement if the
+          condition is false. An if statement looks as follows:
+
+          <code>if (condition) { statement_1; } else { statement_2; }</code>
+          condition can be any expression that evaluates to true or false. See
+          Boolean for an explanation of what evaluates to true and false. If
+          condition evaluates to true, statement_1 is executed; otherwise,
+          statement_2 is executed. statement_1 and statement_2 can be any
+          statement, including further nested if statements.
+          <p>
+            You may also compound the statements using else if to have multiple
+            conditions tested in sequence, as follows:
+          </p>
+          <code
+            >if (condition_1) { statement_1; } else if (condition_2) {
+            statement_2; } else if (condition_n) { statement_n; } else {
+            statement_last; }
+          </code>
+          In the case of multiple conditions only the first logical condition
+          which evaluates to true will be executed. To execute multiple
+          statements, group them within a block statement ({ ... }) . In
+          general, it's good practice to always use block statements, especially
+          when nesting if statements:
+
+          <code
+            >if (condition) { statement_1_runs_if_condition_is_true;
+            statement_2_runs_if_condition_is_true; } else {
+            statement_3_runs_if_condition_is_false;
+            statement_4_runs_if_condition_is_false; }</code
+          >
+          It is advisable to not use simple assignments in a conditional
+          expression, because the assignment can be confused with equality when
+          glancing over the code. For example, do not use the following code:
+          <code>if (x = y) { /* statements here */ }</code> If you need to use
+          an assignment in a conditional expression, a common practice is to put
+          additional parentheses around the assignment. For example:
+
+          <code>if ((x = y)) { /* statements here */ }</code>
+        </article>
+      </section>
+      <section class="main-section" id="while_statement">
+        <header>while statement</header>
+        <article>
+          A while statement executes its statements as long as a specified
+          condition evaluates to true. A while statement looks as follows:
+
+          <code>while (condition) statement</code> If the condition becomes
+          false, statement within the loop stops executing and control passes to
+          the statement following the loop.
+
+          <p>
+            The condition test occurs before statement in the loop is executed.
+            If the condition returns true, statement is executed and the
+            condition is tested again. If the condition returns false, execution
+            stops and control is passed to the statement following while.
+          </p>
+
+          <p>
+            To execute multiple statements, use a block statement ({ ... }) to
+            group those statements.
+          </p>
+
+          Example:
+
+          <p>
+            The following while loop iterates as long as n is less than three:
+          </p>
+
+          <code>var n = 0; var x = 0; while (n &lt; 3) { n++; x += n; }</code>
+          <p>
+            With each iteration, the loop increments n and adds that value to x.
+            Therefore, x and n take on the following values:
+          </p>
+
+          <ul>
+            <li>After the first pass: n = 1 and x = 1</li>
+            <li>After the second pass: n = 2 and x = 3</li>
+            <li>After the third pass: n = 3 and x = 6</li>
+          </ul>
+          <p>
+            After completing the third pass, the condition n &lt; 3 is no longer
+            true, so the loop terminates.
+          </p>
+        </article>
+      </section>
+      <section class="main-section" id="Function_declarations">
+        <header>Function declarations</header>
+        <article>
+          A function definition (also called a function declaration, or function
+          statement) consists of the function keyword, followed by:
+
+          <ul>
+            <li>The name of the function.</li>
+            <li>
+              A list of arguments to the function, enclosed in parentheses and
+              separated by commas.
+            </li>
+            <li>
+              The JavaScript statements that define the function, enclosed in
+              curly brackets, { }.
+            </li>
+          </ul>
+          <p>
+            For example, the following code defines a simple function named
+            square:
+          </p>
+
+          <code>function square(number) { return number * number; }</code>
+          <p>
+            The function square takes one argument, called number. The function
+            consists of one statement that says to return the argument of the
+            function (that is, number) multiplied by itself. The return
+            statement specifies the value returned by the function.
+          </p>
+          <code>return number * number;</code>
+          <p>
+            Primitive parameters (such as a number) are passed to functions by
+            value; the value is passed to the function, but if the function
+            changes the value of the parameter, this change is not reflected
+            globally or in the calling function.
+          </p>
+        </article>
+      </section>
+      <section class="main-section" id="Reference">
+        <header>Reference</header>
+        <article>
+          <ul>
+            <li>
+              All the documentation in this page is taken from
+              <a
+                href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+                target="_blank"
+                >MDN</a
+              >
+            </li>
+          </ul>
+        </article>
+      </section>
+    </main>
+  </body>
+</html>
