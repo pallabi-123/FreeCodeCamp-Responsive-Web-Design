@@ -1,0 +1,4 @@
+Step 29
+Finally, create a new 75% selector between your 50% and 100% selectors. Give this new selector a background-color property set to yellow.
+
+With that, your animation is much smoother and your Ferris wheel is complete.
